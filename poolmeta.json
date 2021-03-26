@@ -1,6 +1,6 @@
 {
-  "name":"BICEP 💪","ticker":"BICEP",
-  "description": "Stake with Cardano's Strongest new pool 💪",
+  "name":"BICEP","ticker":"BICEP",
+  "description": "Stake with Cardano's Strongest new pool",
   "homepage": "http://www.biceppool.com/","nonce":"1610201805",
   "extended": "https://biceppool.github.io/extended-bicep.json"
 }
