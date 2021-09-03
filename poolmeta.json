@@ -1,7 +1,8 @@
 {
-	"name": "CNFT",
-	"ticker": "CNFT",
-	"description": "Stake with CNFT for access to Xclusive Cardano NFT drops!",
-	"homepage": "http://www.coolcnfts.com",
-	"nonce": "1630686672"
+	"name": "BICEP",
+	"ticker": "BICEP",
+	"description": "Stake with Cardano's Strongest Pool!",
+	"homepage": "http://www.biceppool.com",
+	"nonce": "1630693548",
+	"extended": "https://biceppool.github.io/extended-bicep.json"
 }
