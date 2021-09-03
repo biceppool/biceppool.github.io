@@ -1,6 +1,7 @@
 {
-  "name":"CNFT","ticker":"CNFT",
-  "description": "Stake with CNFT for access to Xclusive Cardano NFT drops!",
-  "homepage": "http://www.coolcnfts.com/","nonce":"1610201805",
-  "extended": ""
+	"name": "CNFT",
+	"ticker": "CNFT",
+	"description": "Stake with CNFT for access to Xclusive Cardano NFT drops!",
+	"homepage": "http://www.coolcnfts.com",
+	"nonce": "1630686672"
 }
